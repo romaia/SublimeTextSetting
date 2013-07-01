@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Comments Aware Enter",
+		"Git",
+		"GitGrep",
+		"Modelines",
+		"Package Control",
+		"Python Flake8 Lint",
+		"Python Imports Sorter",
+		"VintageEx"
+	]
+}

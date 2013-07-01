@@ -1,0 +1,11 @@
+{
+    "cmd": ["stoq"]
+    ,"shell": true
+    ,"env": {
+        "CHECKOUT": "/home/romaia/stoq/master"
+        ,"PATH": "/home/romaia/stoq/master/stoq/bin:$PATH"
+        ,"PYTHONPATH": "/home/romaia/stoq/master/stoq:/home/romaia/stoq/master/kiwi:/home/romaia/stoq/master/stoqdrivers:${PYTHONPATH}"
+        ,"STOQLIB_TEST_QUICK": "1"
+        ,"STOQ_DISABLE_CRASHREPORT": "1"
+    }
+}

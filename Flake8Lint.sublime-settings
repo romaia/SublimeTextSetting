@@ -1,0 +1,7 @@
+{
+    "ignore": ["E501"]
+
+    // popup a dialog of detected conditions?
+    ,"lint_on_save": false
+
+}
