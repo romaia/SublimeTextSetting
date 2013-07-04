@@ -1,14 +1,20 @@
 {
 	"installed_packages":
 	[
+		"AndyPython",
 		"AutoPEP8",
+		"ColorPicker",
 		"Comments Aware Enter",
-		"Git",
 		"GitGrep",
+		"GitGutter",
+		"Mako",
 		"Modelines",
 		"Package Control",
 		"Python Flake8 Lint",
 		"Python Imports Sorter",
+		"SublimeRope",
+		"TrailingSpaces",
+		"Vintage Escape",
 		"VintageEx"
 	]
 }

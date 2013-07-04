@@ -1,7 +1,7 @@
 {
-    "ignore": ["E501"]
+    "ignore": ["E501", "E711", "E712"]
 
     // popup a dialog of detected conditions?
-    ,"lint_on_save": false
+    ,"lint_on_save": true
 
 }
