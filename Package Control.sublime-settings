@@ -2,19 +2,19 @@
 	"installed_packages":
 	[
 		"AndyPython",
-		"AutoPEP8",
+		"CodeSearch",
 		"ColorPicker",
 		"Comments Aware Enter",
-		"GitGrep",
+		"Git",
 		"GitGutter",
 		"Mako",
-		"Modelines",
 		"Package Control",
-		"Python Flake8 Lint",
+		"Python IDE",
 		"Python Imports Sorter",
-		"SublimeRope",
+		"Python PEP8 Autoformat",
+		"StickySearch",
 		"TrailingSpaces",
 		"Vintage Escape",
-		"VintageEx"
+		"Vintageous"
 	]
 }
